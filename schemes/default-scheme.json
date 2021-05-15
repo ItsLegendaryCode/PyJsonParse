@@ -1,6 +1,7 @@
 {
     "$colors":{
-        "fore":"black",
-        "back":"white"
+        "fore":"cyan",
+        "back":"black",
+        "style":"dim"
     }
 }
