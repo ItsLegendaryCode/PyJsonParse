@@ -8,5 +8,6 @@ def app():
     data = [f"Your name is: {name}",f" You are {age} years old", f"Your favourite food is {food}"]
     return data
 
-LoadJsonScheme("schemes/extras/hacker.json", app())
+LoadJsonScheme("schemes/default-scheme.json", app())
+
 
